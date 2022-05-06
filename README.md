@@ -1,2 +1,2 @@
 # dio_desafio_bootstrap
-Build fast, responsive sites with Bootstrap
+Desenvolvido utilizando o software Visual Studio Code.
